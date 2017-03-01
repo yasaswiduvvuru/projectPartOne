@@ -1,2 +1,1 @@
-# projectPartOne
-To keep that shouting nerd at the front of the class happy
+Website consists of the main page with the three subpages. I have not added articles to the subpages but the subpages have different styles and text. All links are working. There is a home buttom at the top above the head title that takes you back to the home page.
